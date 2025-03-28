@@ -1,17 +1,10 @@
-## Hi there 👋
+# Hello, I'm Lorraine! 👋
 
-**lorenabalea/lorenabalea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a **digital marketer, Web3 dev in training, and tech enthusiast**.
 
-# Hi there, I'm Lorraine Christine! 👋
+🚀 Currently:
+- 🔭 Working on Web3 projects & writing my Bachelor's on digital marketing strategies!
+- 🌱 Learning blockchain development on Solana, AI marketing & technical project management
+- 📫 Reach me on Twitter [@LorraineWeb3](https://twitter.com/LorraineWeb3)
 
-Welcome to my GitHub! I'm a passionate explorer of **digital marketing, Web3, and tech**. You'll find me experimenting with **marketing strategies, coding, and creative projects** while juggling multiple interests like photography, design, and learning languages. 📸🎨🌍
-
-🚀 Currently diving into:
-- 🔭 Working on Web3 projects & digital marketing strategies
-- 🌱 Learning TypeScript, blockchain development, AI marketing & technical project management
-- 👯 Looking to collaborate on innovative marketing & Web3 ideas
-- 💬 Ask me about branding, content creation, and project management
-- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lorena-balea/) or Twitter [@LorraineWeb3](https://twitter.com/LorraineWeb3)
-- ⚡ Fun fact: I love capturing the world through my lens — photography is my creative escape! 📷✨
-
-Let's connect and build something amazing together! ✨
+Let's connect! 📈

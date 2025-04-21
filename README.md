@@ -5,6 +5,5 @@ Welcome to my GitHub! I am a **digital marketer, Web3 dev in training, and tech 
 🚀 Currently:
 - 🔭 Working on Web3 projects & writing my Bachelor's on digital marketing strategies!
 - 🌱 Learning blockchain development on Solana, AI marketing & technical project management
-- 📫 Reach me on Twitter [@LorraineWeb3](https://twitter.com/LorraineWeb3)
 
 Let's connect! 📈

@@ -9,7 +9,6 @@
 
 ---
 
-### Lorena's stats:
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenabalea&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenabalea&layout=compact&theme=github_dark&hide_border=true" /> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
